@@ -12,13 +12,6 @@
 - Top hardware & game tester. 
 - Under NDA.  
 
-**Hardware & Game Tester (volunteer)**    
-| Undisclosed/Confidential  | 2019 - Present |
-| :---- |:---|
-| First to identify critical issues that led to key decision making.       | Top hardware & game tester.     |
-| Under NDA.      |     |
-
-
 **Next-gen Hardware & Game Tester**    
 *Keywords Studios*  
 2020  
