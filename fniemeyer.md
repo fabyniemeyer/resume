@@ -14,7 +14,7 @@ Nov/2019 - Present
 
 **Next-gen Hardware & Game Tester**    
 *Keywords Studios*  
-Jun/2020 - Oct 2020  
+Jun/2020 - Oct/2020  
 - Took ownership of several aspects of the work bringing immediate and long term results.
 - Proposed adoption of new department policy to the leadership team. 
 - Introduced a procedure that benefited all testers in collaboration with the test manager and PM team. 
@@ -24,6 +24,19 @@ Jun/2020 - Oct 2020
 - Quality assurance and compatibility testing for Microsoft's next-gen gaming hardware & software. 
 - Under NDA. Worked until the end of the program.
 
-**Bilingual Specialist - Customer Service & Product Testing**
+**Bilingual Specialist - Customer Service & Product Testing**  
 *Nintendo*  
-Nov/2017 - Nov/2018  
+2017 - 2018  
+- Granted 2 awards (“Bursts of Brilliance”) for high performance regarding team communication and handling of an unpredictable issue.
+- Performed customer service engagement based on sales, negotiation and de-escalation techniques for Nintendo gaming systems, via e-mail and phone, for Brazilians in Portuguese & Americans in English. 
+- Translation of owner's manual from English to Portuguese using MemoQ and other tools. 
+- Performed language checks in Spanish, Portuguese, English & French.
+- Collaborating and sharing solutions with members of the tech team.  
+(Aerotek at Nintendo of America)
+
+**Executive Assistant**  
+*Teia de Textos Cultural Association*  
+2011  
+- Program management of public funding/finances, all 40+ volunteers and coordination of 30 animal adoption fairs.
+- In partnership with Belo Horizonte City Hall & Centre For Control of Zoonosis, the project aimed to find a house for homeless pets & educate for responsible pet ownership.
+- Achieved increase in rate of animal adoption, resulting in over 240 adoptions.
