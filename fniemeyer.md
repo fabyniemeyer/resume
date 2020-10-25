@@ -52,3 +52,12 @@
 - Performed digital marketing on Facebook, YouTube & Google AdSense.
 
 ## Education  
+**Diploma in Project Management**, Alison, 2020  
+
+**Individual Courses: Agile Development, Scrum Advanced, Characteristics of a Great Scrum Master & R programming**, LinkedIn Learning & Coursera, 2015-2020  
+
+**Master of Science in Bioinformatics**, University of Minho (Portugal), 2012-2014  
+Statistics & Bioinformatics. A few credits remain to be completed.  
+
+**Bachelor of Science & Bachelor of Education Dual Degree in Biological Sciences**, Pontifical Catholic University of Minas Gerais (Brazil), 2007-2010  
+Hours attended: 6631. Majors: Zoology and Environmental Education. Grade: 88 out of 100 points. Transferred past credits to school.
