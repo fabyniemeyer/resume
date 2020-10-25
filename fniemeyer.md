@@ -60,4 +60,4 @@
 Statistics & Bioinformatics. A few credits remain to be completed.  
 
 **Bachelor of Science & Bachelor of Education Dual Degree in Biological Sciences**, Pontifical Catholic University of Minas Gerais (Brazil), 2007-2010  
-Hours attended: 6631. Majors: Zoology and Environmental Education. Grade: 88 out of 100 points. Transferred past credits to school.
+Hours attended: 6631. Majors: Zoology & Environmental Education. Grade: 88/100 points. Transferred past credits to school.
