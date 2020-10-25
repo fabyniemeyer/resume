@@ -1,3 +1,7 @@
-Faby Niemeyer
-=============
-##### (425) 802-0091 | <contact@fniemeyer.com> | [LinkedIn](https://www.linkedin.com/in/fabyf/)
+# Faby Niemeyer
+
+###### :telephone_receiver: (425) 802-0091 &nbsp; &nbsp; :mailbox: <contact@fniemeyer.com> &nbsp; &nbsp; :computer: [LinkedIn](https://www.linkedin.com/in/fabyf/)
+
+
+
+## Experience
