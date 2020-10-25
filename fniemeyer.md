@@ -12,6 +12,12 @@
 - Top hardware & game tester. 
 - Under NDA.
 
+| Undisclosed/Confidential  | 2019 - Present |
+| :---- |:---|
+| First to identify critical issues that led to key decision making.       | Top hardware & game tester.     |
+| Under NDA.      |     |
+
+
 **Next-gen Hardware & Game Tester**    
 *Keywords Studios*  
 2020  
@@ -41,7 +47,7 @@
 - In partnership with Belo Horizonte City Hall & Centre For Control of Zoonosis, the project aimed to find a house for homeless pets & educate for responsible pet ownership.
 - Achieved increase in rate of animal adoption, resulting in over 240 adoptions.
 
-**Co-founder**
+**Co-founder**  
 *Gato Negro Collective*  
 2006 - 2012  
 - Program management of all 25+ volunteers.
@@ -50,3 +56,5 @@
 - Presented 5 lectures on animal rights at conferences and schools.
 - Maintained an online store, website and blog with Drupal, Magento, WordPress & Joomla.
 - Performed digital marketing on Facebook, YouTube & Google AdSense.
+
+## Education  
