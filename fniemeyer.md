@@ -18,8 +18,12 @@ Jun/2020 - Oct 2020
 - Took ownership of several aspects of the work bringing immediate and long term results.
 - Proposed adoption of new department policy to the leadership team. 
 - Introduced a procedure that benefited all testers in collaboration with the test manager and PM team. 
-- Implemented a creative methodology for improving test accuracy. -
-Raised awareness regarding use of personal protective equipment. 
+- Implemented a creative methodology for improving test accuracy. 
+- Raised awareness regarding use of personal protective equipment. 
 - Presented data in a creative new way. 
 - Quality assurance and compatibility testing for Microsoft's next-gen gaming hardware & software. 
 - Under NDA. Worked until the end of the program.
+
+**Bilingual Specialist - Customer Service & Product Testing**
+*Nintendo*  
+Nov/2017 - Nov/2018  
