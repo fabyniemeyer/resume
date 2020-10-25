@@ -10,7 +10,7 @@
 2019 - Present  
 - First to identify critical issues that led to key decision making. 
 - Top hardware & game tester. 
-- Under NDA.    </br></br>
+- Under NDA.</br></br>
 
 
 **Next-gen Hardware & Game Tester**    
@@ -23,7 +23,7 @@
 - Raised awareness regarding use of personal protective equipment. 
 - Presented data in a creative new way. 
 - Quality assurance and compatibility testing for Microsoft's next-gen gaming hardware & software. 
-- Under NDA. Worked until the end of the program.    </br></br>
+- Under NDA. Worked until the end of the program.</br></br>
 
 **Bilingual Specialist - Customer Service & Product Testing**  
 *Nintendo*  
@@ -33,14 +33,14 @@
 - Translation of owner's manual from English to Portuguese using MemoQ and other tools. 
 - Performed language checks in Spanish, Portuguese, English & French.
 - Collaborating and sharing solutions with members of the tech team.  
-(Aerotek at Nintendo of America)    </br></br>
+(Aerotek at Nintendo of America)</br></br>
 
 **Executive Assistant**  
 *Teia de Textos Cultural Association*  
 2011  
 - Program management of public funding/finances, all 40+ volunteers and coordination of 30 animal adoption fairs.
 - In partnership with Belo Horizonte City Hall & Centre For Control of Zoonosis, the project aimed to find a house for homeless pets & educate for responsible pet ownership.
-- Achieved increase in rate of animal adoption, resulting in over 240 adoptions.     </br></br>
+- Achieved increase in rate of animal adoption, resulting in over 240 adoptions.</br></br>
 
 **Co-founder**  
 *Gato Negro Collective*  
@@ -50,7 +50,7 @@
 - Organized yearly conferences with national and international speakers, a monthly study group & fundraiser dinner.
 - Presented 5 lectures on animal rights at conferences and schools.
 - Maintained an online store, website and blog with Drupal, Magento, WordPress & Joomla.
-- Performed digital marketing on Facebook, YouTube & Google AdSense.    </br></br>
+- Performed digital marketing on Facebook, YouTube & Google AdSense.</br></br>
 
 ## Education  
 **Diploma in Project Management**, Alison, 2020  
