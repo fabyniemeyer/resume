@@ -10,8 +10,9 @@
 2019 - Present  
 - First to identify critical issues that led to key decision making. 
 - Top hardware & game tester. 
-- Under NDA.
+- Under NDA.  
 
+**Hardware & Game Tester (volunteer)**    
 | Undisclosed/Confidential  | 2019 - Present |
 | :---- |:---|
 | First to identify critical issues that led to key decision making.       | Top hardware & game tester.     |
