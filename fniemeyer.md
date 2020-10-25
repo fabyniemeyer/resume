@@ -7,14 +7,14 @@
 ## Experience
 **Hardware & Game Tester (volunteer)**    
 *Undisclosed/Confidential*  
-Nov/2019 - Present  
+2019 - Present  
 - First to identify critical issues that led to key decision making. 
 - Top hardware & game tester. 
 - Under NDA.
 
 **Next-gen Hardware & Game Tester**    
 *Keywords Studios*  
-Jun/2020 - Oct/2020  
+2020  
 - Took ownership of several aspects of the work bringing immediate and long term results.
 - Proposed adoption of new department policy to the leadership team. 
 - Introduced a procedure that benefited all testers in collaboration with the test manager and PM team. 
@@ -40,3 +40,13 @@ Jun/2020 - Oct/2020
 - Program management of public funding/finances, all 40+ volunteers and coordination of 30 animal adoption fairs.
 - In partnership with Belo Horizonte City Hall & Centre For Control of Zoonosis, the project aimed to find a house for homeless pets & educate for responsible pet ownership.
 - Achieved increase in rate of animal adoption, resulting in over 240 adoptions.
+
+**Co-founder**
+*Gato Negro Collective*  
+2006 - 2012  
+- Program management of all 25+ volunteers.
+- Ensured self sustainability throughout its life time by managing funds.
+- Organized yearly conferences with national and international speakers, a monthly study group & fundraiser dinner.
+- Presented 5 lectures on animal rights at conferences and schools.
+- Maintained an online store, website and blog with Drupal, Magento, WordPress & Joomla.
+- Performed digital marketing on Facebook, YouTube & Google AdSense.
