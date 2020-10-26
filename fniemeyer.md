@@ -50,7 +50,8 @@ Fluent in English & Portuguese, Limited Spanish proficiency
 2011  
 - Program management of public funding/finances, all 40+ volunteers and coordination of 30 animal adoption fairs.
 - In partnership with Belo Horizonte City Hall & Centre For Control of Zoonosis, the project aimed to find a house for homeless pets & educate for responsible pet ownership.
-- Achieved increase in rate of animal adoption, resulting in over 240 adoptions.</br></br>
+- Achieved increase in rate of animal adoption, resulting in over 240 adoptions.
+- Updated key stakeholders on program status, KPIs and metrics. </br></br>
 
 **Co-founder**  
 *Gato Negro Collective*  
