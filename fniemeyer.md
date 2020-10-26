@@ -4,7 +4,7 @@
 
 *Award winning, highly motivated bilingual professional with experience in the games industry, program management, events & funds. Complimented by a strong background in technology & science with solid people skills, and experience in de-escalation & conflict resolution. Seeking a career opportunity to deliver amazing products as a technical program manager.* </br>
 
-##### Overview
+## Overview
 ```
 Experience managing projects & teams of 40+ people, funds & events
 2.5 years in the games industry (QA, Localization & Customer Service)
