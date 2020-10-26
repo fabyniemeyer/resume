@@ -40,7 +40,7 @@ Fluent in English & Portuguese, Limited Spanish proficiency
 2017 - 2018  
 - Granted 2 awards (“Bursts of Brilliance”) for high performance regarding team communication and handling of an unpredictable issue.
 - Performed customer service engagement based on sales, negotiation and de-escalation techniques for Nintendo gaming systems, via e-mail and phone, for Brazilians in Portuguese & Americans in English. 
-- Translation of owner's manual from English to Portuguese using MemoQ and other tools. 
+- Translation of owner's manual from English to Portuguese using MemoQ & other tools. 
 - Performed language checks in Spanish, Portuguese, English & French.
 - Collaborating and sharing solutions with members of the tech team.  
 (Aerotek at Nintendo of America)</br></br>
