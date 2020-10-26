@@ -57,6 +57,7 @@ Fluent in English & Portuguese, Limited Spanish proficiency
 *Gato Negro Collective*  
 2006 - 2012  
 - Program management of all 25+ volunteers.
+- Presented project updates and performance to the team.
 - Ensured self sustainability throughout its life time by managing funds.
 - Organized yearly conferences with national and international speakers, a monthly study group & fundraiser dinner.
 - Presented 5 lectures on animal rights at conferences and schools.
