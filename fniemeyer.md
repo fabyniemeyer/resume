@@ -2,7 +2,7 @@
 
 ###### :telephone_receiver: (425) 802-0091 &nbsp; &nbsp; :mailbox: <contact@fniemeyer.com> &nbsp; &nbsp; :computer: [LinkedIn](https://www.linkedin.com/in/fabyf/) &nbsp; &nbsp; :earth_americas: Woodinville, WA </br></br>
 
-*Award winning, highly motivated bilingual professional with experience in the games industry, program management, events & funds. Complimented by a strong background in technology & science with solid people skills, and experience in de-escalation & conflict resolution. Seeking a career opportunity to deliver amazing products as a technical program manager.* </br>
+*Award winning, highly motivated bilingual professional with experience in the games industry, program management, events & funds. Complimented by a strong background in technology & science with solid people skills, and experience in de-escalation, conflict resolution & sales. Seeking a career opportunity to deliver amazing products as a technical program manager.* </br>
 
 ## Overview
 ```
